@@ -44,7 +44,7 @@ export default function Page() {
         />
       </div>
 
-      {/* If this src image came from a database or external src do the following */}
+      {/* Another way to set up images do the following. */}
       <div className="relative aspect-square col-span-2">
         <Image
           src="/about-2.jpg"
